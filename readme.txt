@@ -56,6 +56,6 @@ INSERT INTO t_app_config (param_key, param_name, param_value) values ( 'hibernat
     url="jdbc:mysql://localhost:3306/db_example" />
 
 
-        
+mvn mybatis-generator:generate
 
 
